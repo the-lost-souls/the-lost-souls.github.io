@@ -1,6 +1,7 @@
 # The Lost Souls Productions
 
 ## IV - Racer (2002)
+[nfo](https://github.com/the-lost-souls/IV/blob/master/src/racer.nfo) - 
 [src](https://github.com/the-lost-souls/IV) - 
 [youtube](https://www.youtube.com/watch?v=mHV_oIYZyEg) - 
 [scene.org](https://files.scene.org/view/parties/2002/thegathering02/demo/iv_-_racer_by_tls.zip) - 
@@ -12,6 +13,7 @@ Finished 2nd at The Gathering '02 Demo Compo.
 
 
 ## Anytime (2001)
+[nfo](https://github.com/the-lost-souls/anytime/blob/master/src/anytime.nfo) -
 [src](https://github.com/the-lost-souls/anytime) - [youtube](https://www.youtube.com/watch?v=_ubBTbGcLv8) - [scene.org](https://files.scene.org/view/parties/2001/norvegia01/demo/tls-anytime.zip) - [pouet.net](http://www.pouet.net/prod.php?which=4244)
 
 [![screenshot](images/thumbnails/anytime.jpg)](https://www.youtube.com/watch?v=_ubBTbGcLv8) 
@@ -20,6 +22,7 @@ Finished 1st at Norvegia 2001 Demo Compo.
 
 
 ## III - Live Tomorrow (1999)
+[nfo](https://github.com/the-lost-souls/III/blob/master/src/TLS_III.NFO) - 
 [src](https://github.com/the-lost-souls/III) - 
 [youtube](https://www.youtube.com/watch?v=Rd-w4rKwvr4) - 
 [scene.org](https://files.scene.org/view/parties/1999/thegathering99/demo/tls_iii.zip) - 
