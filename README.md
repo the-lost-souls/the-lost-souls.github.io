@@ -6,7 +6,7 @@
 [scene.org](https://files.scene.org/view/parties/2002/thegathering02/demo/iv_-_racer_by_tls.zip) - 
 [pouet.net](http://www.pouet.net/prod.php?which=5555)
 
-[![screenshot](images/thumbnails/IV.jpg)](https://www.youtube.com/watch?v=mHV_oIYZyEg)
+[![screenshot](images/thumbnails/iv.jpg)](https://www.youtube.com/watch?v=mHV_oIYZyEg)
 
 Finished 2nd at The Gathering '02 Demo Compo.
 
