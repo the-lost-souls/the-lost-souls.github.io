@@ -70,8 +70,13 @@ TODO
 
 
 ## TIß (1994)
-TODO
+[nfo](https://github.com/the-lost-souls/TiB/blob/master/TLS.NFO) - 
+[src](https://github.com/the-lost-souls/TiB) - 
+[youtube](https://youtu.be/4rLNIgGAGlk)
 
+[![screenshot](images/thumbnails/tib.png)](https://youtu.be/4rLNIgGAGlk)
+
+Demo for Melhus Party 1994, our first demo ever! (Turbo Pascal, MS-DOS, GoldPlay)
 
 ## TLS Disk (1994)
 TODO
