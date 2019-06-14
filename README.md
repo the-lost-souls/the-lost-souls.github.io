@@ -70,7 +70,7 @@ TODO
 
 
 ## TIß (1994)
-[nfo](https://github.com/the-lost-souls/TiB/blob/master/TLS.NFO) - 
+[nfo](https://github.com/the-lost-souls/TiB/blob/master/src/TLS.NFO) - 
 [src](https://github.com/the-lost-souls/TiB) - 
 [youtube](https://youtu.be/4rLNIgGAGlk)
 
