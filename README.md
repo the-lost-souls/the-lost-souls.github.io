@@ -62,7 +62,7 @@ TODO
 
 
 ## Synthetic (1995)
-[youtube](https://youtu.be/tJvQbS8wOok) - [nfo](https://github.com/the-lost-souls/synthetic/blob/master/src/TLS_SYN.TXT) - [download](https://github.com/the-lost-souls/sorcerer/releases/download/final/SORCERER.zip) - [src](https://github.com/the-lost-souls/synthetic)
+[youtube](https://youtu.be/tJvQbS8wOok) - [nfo](https://github.com/the-lost-souls/synthetic/blob/master/src/TLS_SYN.TXT) - [download](https://github.com/the-lost-souls/synthetic/releases/download/final/SYN_TLS.ZIP) - [src](https://github.com/the-lost-souls/synthetic)
 
 [![screenshot](images/thumbnails/synthetic.png)](https://youtu.be/tJvQbS8wOok)
 
