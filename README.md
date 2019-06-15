@@ -70,9 +70,9 @@ TODO
 
 
 ## TIß (1994)
-[nfo](https://github.com/the-lost-souls/TiB/blob/master/src/TLS.NFO) - 
-[src](https://github.com/the-lost-souls/TiB) - 
-[youtube](https://youtu.be/Qd8WPVmYhX8)
+[youtube](https://youtu.be/Qd8WPVmYhX8) - [nfo](https://github.com/the-lost-souls/TiB/blob/master/src/TLS.NFO) - 
+[download](https://github.com/the-lost-souls/TiB/releases/download/final/tls_Tiss.ZIP) - [src](https://github.com/the-lost-souls/TiB)
+
 
 [![screenshot](images/thumbnails/tib.png)](https://youtu.be/Qd8WPVmYhX8)
 
