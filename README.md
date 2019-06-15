@@ -66,7 +66,7 @@ TODO
 
 
 ## Sorcerer BBS Intro (1995)
-[youtube](https://youtu.be/F_KWflqlF1g) - [src](https://github.com/the-lost-souls/sorcerer)
+[youtube](https://youtu.be/F_KWflqlF1g) - [download](https://github.com/the-lost-souls/sorcerer/releases/download/final/SORCERER.zip) - [src](https://github.com/the-lost-souls/sorcerer)
 
 [![screenshot](images/thumbnails/sorcerer.png)](https://youtu.be/F_KWflqlF1g)
 
