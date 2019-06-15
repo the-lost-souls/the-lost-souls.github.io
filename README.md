@@ -66,7 +66,10 @@ TODO
 
 
 ## Sorcerer BBS Intro (1995)
-TODO
+[youtube](https://youtu.be/F_KWflqlF1g) - [src](https://github.com/the-lost-souls/sorcerer)
+
+[![screenshot](images/thumbnails/sorcerer.png)](https://youtu.be/F_KWflqlF1g)
+
 
 
 ## TIß (1994)
