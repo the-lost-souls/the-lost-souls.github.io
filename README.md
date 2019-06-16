@@ -54,7 +54,9 @@ Finished 2nd at The Gathering '99 Demo Compo.
 
 
 ## Mind Over Matter (1996)
-TODO
+[youtube](https://youtu.be/UtopQ09WZ9c) - [nfo](https://github.com/the-lost-souls/mind-over-matter/blob/master/src/MOM.NFO) - [scene.org](https://files.scene.org/view/parties/1996/gathering96/demo/tls_mom.zip) - [pouet.net](http://www.pouet.net/prod.php?which=58683) - [src](https://github.com/the-lost-souls/mind-over-matter)
+
+Finished 8th at The Gathering 1996 Demo Compo.
 
 
 ## Time (1996)
