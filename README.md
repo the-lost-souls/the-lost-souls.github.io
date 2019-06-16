@@ -50,7 +50,7 @@ Finished 2nd at The Gathering '99 Demo Compo.
 ## PGP (1997)
 [pouet.net](http://www.pouet.net/prod.php?which=15848)
 
-[![screenshot](images/thumbnails/pgp.gif)](https://www.youtube.com/watch?v=u9j6pc9UeRs)
+[![screenshot](images/thumbnails/pgp.gif)]()
 
 
 ## Mind Over Matter (1996)
@@ -58,14 +58,17 @@ TODO
 
 
 ## Time (1996)
-TODO
+[youtube](https://youtu.be/AyIQb7SAhP0) - [nfo](https://github.com/the-lost-souls/time/blob/master/src/TIME.NFO) - [scene.org](https://files.scene.org/view/parties/1996/tonstad96/demo/tls_time.zip) - [pouet.net](http://www.pouet.net/prod.php?which=58684) - [src](https://github.com/the-lost-souls/time)
+
+[![screenshot](images/thumbnails/time01.png)](https://youtu.be/AyIQb7SAhP0)
+
+Finished 1st at Tonstad Party '96 Demo Compo.
 
 
 ## Synthetic (1995)
 [youtube](https://youtu.be/tJvQbS8wOok) - [nfo](https://github.com/the-lost-souls/synthetic/blob/master/src/TLS_SYN.TXT) - [download](https://github.com/the-lost-souls/synthetic/releases/download/final/SYN_TLS.ZIP) - [src](https://github.com/the-lost-souls/synthetic)
 
 [![screenshot](images/thumbnails/synthetic.png)](https://youtu.be/tJvQbS8wOok)
-
 
 
 ## Sorcerer BBS Intro (1995)
