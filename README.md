@@ -33,7 +33,14 @@ Finished 1st at Norvegia 2001 Demo Compo.
 Finished 2nd at The Gathering '99 Demo Compo.
 
 
-## Follow Your Heart (1999)
+## Cucumber Slumber (1999)
+[youtube](https://youtu.be/ClB6vvaWzMg)
+
+[![screenshot](images/thumbnails/cucumber01.png)](https://youtu.be/ClB6vvaWzMg)
+
+Collaboration with ELQ, finished 1st at The Gathering '99 Fast Intro Compo (MSDOS).
+
+## Follow your Heart (1999)
 [youtube](https://youtu.be/AAPkby4EDQY)
 
 [![screenshot](images/thumbnails/FYH.jpg)](https://youtu.be/AAPkby4EDQY)
@@ -53,8 +60,10 @@ Finished 2nd at The Gathering '99 Demo Compo.
 [![screenshot](images/thumbnails/pgp.gif)]()
 
 
-## Mind Over Matter (1996)
+## Mind over Matter (1996)
 [youtube](https://youtu.be/UtopQ09WZ9c) - [nfo](https://github.com/the-lost-souls/mind-over-matter/blob/master/src/MOM.NFO) - [scene.org](https://files.scene.org/view/parties/1996/gathering96/demo/tls_mom.zip) - [pouet.net](http://www.pouet.net/prod.php?which=58683) - [src](https://github.com/the-lost-souls/mind-over-matter)
+
+[![screenshot](images/thumbnails/mom02.png)]()
 
 Finished 8th at The Gathering 1996 Demo Compo.
 
