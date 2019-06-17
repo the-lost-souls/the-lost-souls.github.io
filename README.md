@@ -34,9 +34,9 @@ Finished 2nd at The Gathering '99 Demo Compo.
 
 
 ## Follow Your Heart (1999)
-[youtube](https://www.youtube.com/watch?v=Rd-w4rKwvr4)
+[youtube](https://youtu.be/AAPkby4EDQY)
 
-[![screenshot](images/thumbnails/FYH.jpg)](https://www.youtube.com/watch?v=u9j6pc9UeRs)
+[![screenshot](images/thumbnails/FYH.jpg)](https://youtu.be/AAPkby4EDQY)
 
 
 ## II (1998)
