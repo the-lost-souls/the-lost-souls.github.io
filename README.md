@@ -63,7 +63,7 @@ Collaboration with ELQ, finished 1st at The Gathering '99 Fast Intro Compo (MSDO
 ## Mind over Matter (1996)
 [youtube](https://youtu.be/UtopQ09WZ9c) - [nfo](https://github.com/the-lost-souls/mind-over-matter/blob/master/src/MOM.NFO) - [scene.org](https://files.scene.org/view/parties/1996/gathering96/demo/tls_mom.zip) - [pouet.net](http://www.pouet.net/prod.php?which=58683) - [src](https://github.com/the-lost-souls/mind-over-matter)
 
-[![screenshot](images/thumbnails/mom02.png)]()
+[![screenshot](images/thumbnails/mom02.png)](https://youtu.be/UtopQ09WZ9c)
 
 Finished 8th at The Gathering 1996 Demo Compo.
 
