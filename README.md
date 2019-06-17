@@ -55,9 +55,9 @@ Collaboration with ELQ, finished 1st at The Gathering '99 Fast Intro Compo (MSDO
 
 
 ## PGP (1997)
-[pouet.net](http://www.pouet.net/prod.php?which=15848)
+[youtube](https://youtu.be/Fg-FixaV6ws) - [pouet.net](http://www.pouet.net/prod.php?which=15848)
 
-[![screenshot](images/thumbnails/pgp.gif)]()
+[![screenshot](images/thumbnails/pgp.gif)](https://youtu.be/Fg-FixaV6ws)
 
 
 ## Mind over Matter (1996)
@@ -66,6 +66,14 @@ Collaboration with ELQ, finished 1st at The Gathering '99 Fast Intro Compo (MSDO
 [![screenshot](images/thumbnails/mom02.png)](https://youtu.be/UtopQ09WZ9c)
 
 Finished 8th at The Gathering 1996 Demo Compo.
+
+
+## PESE (1996)
+[youtube](https://youtu.be/OlRxaUWLNgU)
+
+[![screenshot](images/thumbnails/pese01.png)](https://youtu.be/OlRxaUWLNgU)
+
+Finished 3rd at The Gathering 1996 Fast Intro Compo.
 
 
 ## Time (1996)
