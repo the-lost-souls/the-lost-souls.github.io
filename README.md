@@ -24,11 +24,11 @@ Finished 1st at Norvegia 2001 Demo Compo.
 ## III - Live Tomorrow (1999)
 [nfo](https://github.com/the-lost-souls/III/blob/master/src/TLS_III.NFO) - 
 [src](https://github.com/the-lost-souls/III) - 
-[youtube](https://www.youtube.com/watch?v=Rd-w4rKwvr4) - 
+[youtube](https://youtu.be/rMkFe3xxZmA) - 
 [scene.org](https://files.scene.org/view/parties/1999/thegathering99/demo/tls_iii.zip) - 
 [pouet.net](http://www.pouet.net/prod.php?which=5919)
 
-[![screenshot](images/thumbnails/III.jpg)](https://www.youtube.com/watch?v=Rd-w4rKwvr4)
+[![screenshot](images/thumbnails/III.jpg)](https://youtu.be/rMkFe3xxZmA)
 
 Finished 2nd at The Gathering '99 Demo Compo.
 
