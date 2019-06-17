@@ -42,9 +42,9 @@ Finished 2nd at The Gathering '99 Demo Compo.
 ## II (1998)
 [nfo](https://github.com/the-lost-souls/II/blob/master/src/TLS_II.NFO) - 
 [src](https://github.com/the-lost-souls/II) - 
-[youtube](https://www.youtube.com/watch?v=SQGvSi6TyXA) - [scene.org](https://files.scene.org/view/parties/1998/thegathering98/demo/tls_ii.zip) - [pouet.net](http://www.pouet.net/prod.php?which=5923)
+[youtube](https://youtu.be/stSv0y_zg1o) - [scene.org](https://files.scene.org/view/parties/1998/thegathering98/demo/tls_ii.zip) - [pouet.net](http://www.pouet.net/prod.php?which=5923)
 
-[![screenshot](images/thumbnails/II.jpg)](https://www.youtube.com/watch?v=SQGvSi6TyXA)
+[![screenshot](images/thumbnails/II.jpg)](https://youtu.be/stSv0y_zg1o)
 
 
 ## PGP (1997)
