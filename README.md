@@ -47,15 +47,14 @@ Collaboration with ELQ, finished 1st at The Gathering '99 Fast Intro Compo (MSDO
 
 
 ## II (1998)
-[nfo](https://github.com/the-lost-souls/II/blob/master/src/TLS_II.NFO) - 
-[src](https://github.com/the-lost-souls/II) - 
-[youtube](https://youtu.be/stSv0y_zg1o) - [scene.org](https://files.scene.org/view/parties/1998/thegathering98/demo/tls_ii.zip) - [pouet.net](http://www.pouet.net/prod.php?which=5923)
+[youtube](https://youtu.be/stSv0y_zg1o) - [nfo](https://github.com/the-lost-souls/II/blob/master/src/TLS_II.NFO) - [src](https://github.com/the-lost-souls/II) - 
+[scene.org](https://files.scene.org/view/parties/1998/thegathering98/demo/tls_ii.zip) - [pouet.net](http://www.pouet.net/prod.php?which=5923)
 
 [![screenshot](images/thumbnails/II.jpg)](https://youtu.be/stSv0y_zg1o)
 
 
 ## PGP (1997)
-[youtube](https://youtu.be/Fg-FixaV6ws) - [pouet.net](http://www.pouet.net/prod.php?which=15848)
+[youtube](https://youtu.be/Fg-FixaV6ws) - [pouet.net](http://www.pouet.net/prod.php?which=15848) - [scene.org](https://files.scene.org/view/mirrors/hornet/demos/1997/t/tls_pgp.zip) - [src](https://github.com/the-lost-souls/pgp)
 
 [![screenshot](images/thumbnails/pgp.gif)](https://youtu.be/Fg-FixaV6ws)
 
