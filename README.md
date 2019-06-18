@@ -1,11 +1,9 @@
 # The Lost Souls Productions
 
 ## IV - Racer (2002)
-[nfo](https://github.com/the-lost-souls/IV/blob/master/src/racer.nfo) - 
-[src](https://github.com/the-lost-souls/IV) - 
-[youtube](https://www.youtube.com/watch?v=mHV_oIYZyEg) - 
+[youtube](https://www.youtube.com/watch?v=mHV_oIYZyEg) - [nfo](https://github.com/the-lost-souls/IV/blob/master/src/racer.nfo) - 
 [scene.org](https://files.scene.org/view/parties/2002/thegathering02/demo/iv_-_racer_by_tls.zip) - 
-[pouet.net](http://www.pouet.net/prod.php?which=5555)
+[pouet.net](http://www.pouet.net/prod.php?which=5555) - [src](https://github.com/the-lost-souls/IV)
 
 [![screenshot](images/thumbnails/iv.jpg)](https://www.youtube.com/watch?v=mHV_oIYZyEg)
 
@@ -13,8 +11,8 @@ Finished 2nd at The Gathering '02 Demo Compo.
 
 
 ## Anytime (2001)
-[nfo](https://github.com/the-lost-souls/anytime/blob/master/src/anytime.nfo) -
-[src](https://github.com/the-lost-souls/anytime) - [youtube](https://www.youtube.com/watch?v=_ubBTbGcLv8) - [scene.org](https://files.scene.org/view/parties/2001/norvegia01/demo/tls-anytime.zip) - [pouet.net](http://www.pouet.net/prod.php?which=4244)
+[youtube](https://www.youtube.com/watch?v=_ubBTbGcLv8) - [nfo](https://github.com/the-lost-souls/anytime/blob/master/src/anytime.nfo) - [scene.org](https://files.scene.org/view/parties/2001/norvegia01/demo/tls-anytime.zip) - [pouet.net](http://www.pouet.net/prod.php?which=4244) -
+[src](https://github.com/the-lost-souls/anytime)
 
 [![screenshot](images/thumbnails/anytime.jpg)](https://www.youtube.com/watch?v=_ubBTbGcLv8) 
 
@@ -22,11 +20,10 @@ Finished 1st at Norvegia 2001 Demo Compo.
 
 
 ## III - Live Tomorrow (1999)
-[nfo](https://github.com/the-lost-souls/III/blob/master/src/TLS_III.NFO) - 
-[src](https://github.com/the-lost-souls/III) - 
-[youtube](https://youtu.be/rMkFe3xxZmA) - 
+[youtube](https://youtu.be/rMkFe3xxZmA) - [nfo](https://github.com/the-lost-souls/III/blob/master/src/TLS_III.NFO) - 
 [scene.org](https://files.scene.org/view/parties/1999/thegathering99/demo/tls_iii.zip) - 
-[pouet.net](http://www.pouet.net/prod.php?which=5919)
+[pouet.net](http://www.pouet.net/prod.php?which=5919) - 
+[src](https://github.com/the-lost-souls/III)
 
 [![screenshot](images/thumbnails/III.jpg)](https://youtu.be/rMkFe3xxZmA)
 
@@ -34,21 +31,21 @@ Finished 2nd at The Gathering '99 Demo Compo.
 
 
 ## Cucumber Slumber (1999)
-[youtube](https://youtu.be/ClB6vvaWzMg)
+[youtube](https://youtu.be/ClB6vvaWzMg) - [scene.org](https://files.scene.org/view/parties/1999/thegathering99/wild/fast-intro/cucumber.zip) - [pouet.net](https://www.pouet.net/prod.php?which=81547)
 
 [![screenshot](images/thumbnails/cucumber01.png)](https://youtu.be/ClB6vvaWzMg)
 
 Collaboration with ELQ, finished 1st at The Gathering '99 Fast Intro Compo (MSDOS).
 
 ## Follow your Heart (1999)
-[youtube](https://youtu.be/AAPkby4EDQY)
+[youtube](https://youtu.be/AAPkby4EDQY) - [nfo](https://github.com/the-lost-souls/follow-your-heart/blob/master/src/HEART.NFO) - [pouet.net](https://www.pouet.net/prod.php?which=81546) - [download](https://github.com/the-lost-souls/follow-your-heart/releases/download/final/tls_fyh.zip)
 
 [![screenshot](images/thumbnails/FYH.jpg)](https://youtu.be/AAPkby4EDQY)
 
 
 ## II (1998)
-[youtube](https://youtu.be/stSv0y_zg1o) - [nfo](https://github.com/the-lost-souls/II/blob/master/src/TLS_II.NFO) - [src](https://github.com/the-lost-souls/II) - 
-[scene.org](https://files.scene.org/view/parties/1998/thegathering98/demo/tls_ii.zip) - [pouet.net](http://www.pouet.net/prod.php?which=5923)
+[youtube](https://youtu.be/stSv0y_zg1o) - [nfo](https://github.com/the-lost-souls/II/blob/master/src/TLS_II.NFO) - 
+[scene.org](https://files.scene.org/view/parties/1998/thegathering98/demo/tls_ii.zip) - [pouet.net](http://www.pouet.net/prod.php?which=5923) - [src](https://github.com/the-lost-souls/II)
 
 [![screenshot](images/thumbnails/II.jpg)](https://youtu.be/stSv0y_zg1o)
 
@@ -95,11 +92,9 @@ Finished 1st at Tonstad Party '96 Demo Compo.
 [![screenshot](images/thumbnails/sorcerer.png)](https://youtu.be/F_KWflqlF1g)
 
 
-
 ## TIß (1994)
 [youtube](https://youtu.be/Qd8WPVmYhX8) - [nfo](https://github.com/the-lost-souls/TiB/blob/master/src/TLS.NFO) - 
 [download](https://github.com/the-lost-souls/TiB/releases/download/final/tls_Tiss.ZIP) - [src](https://github.com/the-lost-souls/TiB)
-
 
 [![screenshot](images/thumbnails/tib.png)](https://youtu.be/Qd8WPVmYhX8)
 
