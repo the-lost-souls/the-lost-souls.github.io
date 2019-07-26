@@ -1,0 +1,17 @@
+<div #container  (scroll)="helper()" style="position: absolute; height: 100%; width: 100%; overflow-y: scroll; -webkit-overflow-scrolling: touch;">
+    <div #carousel class="carousel" [style.height]="carouselHeight + 'px'">
+
+            <app-parallax #child 
+                *ngFor="let image of images; let i = index" 
+                class="carousel-item" 
+                [image]="image"
+                [style.height]="size[0] + 'px'"
+                [style.transform]="getTransform(tops[i], scales[i])"></app-parallax>
+        
+    </div>
+</div>
+<!-- <div style="position: absolute; width: 100%; height: 2px; background-color: red;" [style.top]="center + 'px'"></div>
+<div style="position: absolute; width: 100%; height: 2px; background-color: lightgray;" [style.top]="'100px'"></div>
+<div style="position: absolute; width: 100%; height: 2px; background-color: lightgray;" [style.top]="'200px'"></div>
+<div style="position: absolute; width: 100%; height: 2px; background-color: lightgray;" [style.top]="'300px'"></div>
+<div style="position: absolute; width: 100%; height: 2px; background-color: lightgray;" [style.top]="'400px'"></div> -->
