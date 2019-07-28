@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "tls-pages": {
+    "tls-home": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
@@ -62,18 +62,18 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
-            "browserTarget": "tls-pages:build"
+            "browserTarget": "tls-home:build"
           },
           "configurations": {
             "production": {
-              "browserTarget": "tls-pages:build:production"
+              "browserTarget": "tls-home:build:production"
             }
           }
         },
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "tls-pages:build"
+            "browserTarget": "tls-home:build"
           }
         },
         "test": {
@@ -110,15 +110,15 @@
           "builder": "@angular-devkit/build-angular:protractor",
           "options": {
             "protractorConfig": "e2e/protractor.conf.js",
-            "devServerTarget": "tls-pages:serve"
+            "devServerTarget": "tls-home:serve"
           },
           "configurations": {
             "production": {
-              "devServerTarget": "tls-pages:serve:production"
+              "devServerTarget": "tls-home:serve:production"
             }
           }
         }
       }
     }},
-  "defaultProject": "tls-pages"
+  "defaultProject": "tls-home"
 }
