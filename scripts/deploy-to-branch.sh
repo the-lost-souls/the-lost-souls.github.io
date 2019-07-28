@@ -13,7 +13,7 @@ cd $BRANCH_DIR
 
 git config --global user.name "CircleCI"  > /dev/null 2>&1
 git init  > /dev/null 2>&1
-git remote add --fetch origin https://$TOKEN@github.com/the-lost-souls/pages.git > /dev/null 2>&1
+git remote add --fetch origin https://$TOKEN@github.com/the-lost-souls/tls-home.git > /dev/null 2>&1
 
 git checkout $BRANCH > /dev/null 2>&1
 
