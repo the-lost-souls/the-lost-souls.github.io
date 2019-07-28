@@ -145,16 +145,6 @@ export class MainComponent implements OnInit, AfterViewInit {
       // this.tops[i] = this.translate[i] - this.itemSize / 2;
       this.transforms[i] = this.getTransform(this.translate[i], this.scales[i]);
     }
-
-    // window.clearTimeout(this.isScrollingTimeout);
-    // this.isScrollingTimeout = window.setTimeout(
-    //   () => this._container.nativeElement.scrollTo({top: this.selectedItem * this.itemSize, behavior: 'auto'}), 500);
-
   }
-
-  hello(e) {
-    console.log(e)
-  }
-
 
 }
