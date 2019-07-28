@@ -90,7 +90,7 @@ export class ParallaxComponent implements OnInit, CarouselChild, AfterViewInit {
   }
 
   public blurAll() {
-    this.blur(this._theimage.nativeElement, this._blurred1.nativeElement, 7);
+    // this.blur(this._theimage.nativeElement, this._blurred1.nativeElement, 7);
     // this.blur(this._theimage.nativeElement, this._blurred2.nativeElement, 3);
   }
 
