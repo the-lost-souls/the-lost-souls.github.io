@@ -1,6 +1,0 @@
-<div #carousel class="carousel" (scroll)="helper()" [style.scroll-padding-top]="scrollPaddingTop" [style.scroll-padding-bottom]="scrollPaddingBottom">
-    <div class="carousel-item-container" *ngFor="let image of images; let i = index" [style.margin]="margins[i]"
-        [style.height]="itemSizeStyle">
-        <app-parallax class="carousel-item" [image]="image" [style.transform]="transforms[i]"></app-parallax>
-    </div>
-</div>
