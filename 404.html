@@ -5,14 +5,16 @@
         path = window.location.pathname;
 
         // Haven't found a way to get this one dynamically
-        base = 'tls-home'
+        base = 'tls-home';
         var redirect;
 
         if (path.startsWith(`/${base}/builds`)) {
-            var build = path.split('/')[2];
-            redirect = `/${base}/builds/${build}/index.html`
+            var build = path.split('/')[3];
+            console.log(`Redirecting to build ${build}`);
+            redirect = `/${base}/builds/${build}/index.html`;
         } else {
-            redirect = `/${base}/index.html`
+            console.log('Redirecting to main app');
+            redirect = `/${base}/index.html`;
         }
 
         fetch(redirect)
@@ -21,7 +23,7 @@
                 document.open();
                 document.write(data);
                 document.close();
-            })
+            });
     </script>
 </head>
 
