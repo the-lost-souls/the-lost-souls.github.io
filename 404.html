@@ -10,10 +10,10 @@
 
         if (path.startsWith(`/${base}/builds`)) {
             var build = path.split('/')[3];
-            console.log(`Redirecting to build ${build}`);
+            console.log(`Loading build ${build}`);
             redirect = `/${base}/builds/${build}/index.html`;
         } else {
-            console.log('Redirecting to main app');
+            console.log('Loading main app');
             redirect = `/${base}/index.html`;
         }
 
