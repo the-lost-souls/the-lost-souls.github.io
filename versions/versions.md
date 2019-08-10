@@ -1,5 +1,6 @@
 | Id | Date | Deployment | Source | CI/CD | Comment |
 | -: | ---- | :--------: | :----: | :---: | ------- |
+| 145 | 10Aug2019 | [link](https://the-lost-souls.github.io/tls-home/versions/145/) | [link](https://github.com/the-lost-souls/tls-home/commit/1a8fd0d5c76fa31005a132a28732308e2597c506) | [link](https://circleci.com/workflow-run/7b779dfd-ebc1-42e7-82d9-b8cafbbd7505) | |
 | 142 | 10Aug2019 | [link](https://the-lost-souls.github.io/tls-home//versions/142/) | [link](https://github.com/the-lost-souls/tls-home/commit/858eadc4b8ac43bb49ad589ec2948af7c47e5dfd) | [link](https://circleci.com/workflow-run/167d1758-0b50-4227-8291-625c80b23e6d) | |
 | 135 |  | [link](https://the-lost-souls.github.io/tls-home/versions/135/) | | | |
 | 129 |  | [link](https://the-lost-souls.github.io/tls-home/versions/129/) | | | |
