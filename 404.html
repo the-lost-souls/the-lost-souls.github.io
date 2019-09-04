@@ -1,0 +1,31 @@
+<html>
+
+<head>
+    <script language="javascript">
+        // This file is the response to any unknown URL, so 
+        // can't use its location to figure out the base. So simply 
+        // hardcode it here
+        base = 'tls-home'
+
+        path = window.location.pathname;
+        var entryPoint;
+        if (path.startsWith(`/${base}/versions`)) {
+            var version = path.split('/')[2];
+            entryPoint = `/${base}/${version}/index.html`
+        } else {
+            entryPoint = `/${base}/index.html`
+        }
+
+        // Cannot use redirect because that would change the URL and break Angular routes, so
+        // simply load index.html from the requested build and overwrite the document to preserve
+        // the url
+        fetch(entryPoint)
+            .then(response => response.text())
+            .then((data) => {
+                document.open();
+                document.write(data);
+                document.close();
+            })</script>
+</head>
+
+</html>
