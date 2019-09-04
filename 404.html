@@ -2,18 +2,13 @@
 
 <head>
     <script language="javascript">
-        // This file is the response to any unknown URL, so 
-        // can't use its location to figure out the base. So simply 
-        // hardcode it here
-        base = ''
-
         path = window.location.pathname;
         var entryPoint;
-        if (path.startsWith(`/${base}/versions`)) {
-            var version = path.split('/')[2];
-            entryPoint = `/${base}/${version}/index.html`
+        if (path.startsWith(`/versions`)) {
+            var version = path.split('/')[1];
+            entryPoint = `/versions/${version}/index.html`
         } else {
-            entryPoint = `/${base}/index.html`
+            entryPoint = `/index.html`
         }
 
         // Cannot use redirect because that would change the URL and break Angular routes, so
