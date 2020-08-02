@@ -1,5 +1,6 @@
 | Id | Date | Deployment | Source | CI/CD | Comment |
 | -: | ---- | :--------: | :----: | :---: | ------- |
+| 252 | 02Aug2020 | [link](https://the-lost-souls.github.io/versions/252/) | [link](https://github.com/the-lost-souls/tls-home/commit/8a38fe817420b13428ed5bf3872e4c87e1940421) | [link](https://circleci.com/workflow-run/4b9b7347-e454-417e-a655-c4657c04261b) | |
 | 251 | 02Aug2020 | [link](https://the-lost-souls.github.io/versions/251/) | [link](https://github.com/the-lost-souls/tls-home/commit/5a224346f6fc5153d3a53872079200a67b6b9063) | [link](https://circleci.com/workflow-run/6333140b-4763-4763-a78a-bb588e150fab) | |
 | 242 | 03Oct2019 | [link](https://the-lost-souls.github.io/versions/242/) | [link](https://github.com/the-lost-souls/tls-home/commit/cf664b25defa931bfe55278fb2f631c62716b760) | [link](https://circleci.com/workflow-run/d0c77d57-c0d2-41d9-92ac-92ac9ef62d4d) | |
 | 239 | 17Sep2019 | [link](https://the-lost-souls.github.io/versions/239/) | [link](https://github.com/the-lost-souls/tls-home/commit/16230dee87f0d8ff0266d7e417a37cf5f26edaf4) | [link](https://circleci.com/workflow-run/039e52c5-de30-45ef-8f98-47d04f8a3630) | |
